@@ -1,0 +1,25 @@
+manifestVersion: 1
+id: yourprefix-maintainerr
+category: media
+name: Maintainerr
+version: "3.17.1"
+tagline: Automatically clean up unwatched media
+description: >-
+  Maintainerr helps you manage your media library by automatically finding
+  and removing unwatched or unwanted movies and TV shows from Jellyfin, Plex,
+  or Emby. Build rules based on watch history, ratings, file size, and more —
+  integrates with Radarr, Sonarr, Jellyseerr/Overseerr, and Tautulli.
+developer: Maintainerr
+website: https://maintainerr.info
+dependencies: []
+repo: https://github.com/Maintainerr/Maintainerr
+support: https://github.com/Maintainerr/Maintainerr/issues
+port: 6246
+gallery:
+  - 1.jpg
+  - 2.jpg
+path: ""
+defaultUsername: ""
+defaultPassword: ""
+submitter: Ben
+submission: https://github.com/yourprefix/umbrel-community-app-store
